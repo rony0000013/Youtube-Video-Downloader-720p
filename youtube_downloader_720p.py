@@ -61,4 +61,4 @@ Youtube_Downloader(link)
 # Batch downloading videos
 if links != []:
     for link in links:
-        YouTube_Downloader(link)
+        Youtube_Downloader(link)
